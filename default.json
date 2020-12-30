@@ -1,0 +1,30 @@
+{
+  "crauler": {},
+  "extractor": {},
+  "formatter": {
+    "max_length": 80,
+    "title": {
+      "left": 0,
+      "left_char": "*",
+      "bottom": 2
+    },
+    "h1": {
+      "left": 0,
+      "left_char": "-",
+      "bottom": 1
+    },
+    "h2": {
+      "left": 0,
+      "left_char": " ",
+      "bottom": 1
+    },
+    "p": {
+      "left": 0,
+      "left_char": " ",
+      "bottom": 1
+    }
+  },
+  "saver": {
+    "dump_original": false
+  }
+}
